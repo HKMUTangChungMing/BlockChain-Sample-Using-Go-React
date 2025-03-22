@@ -38,6 +38,7 @@ npm start
 ---
 
 ## 成功前端頁面
+http://localhost:3000/
 
 ![image-20250322140545536](http://pdm888.oss-cn-beijing.aliyuncs.com/img/image-20250322140545536.png) 
 
